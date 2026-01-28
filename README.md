@@ -1,4 +1,4 @@
-# Solana AI Market Making Agent
+# Solana AI Market Maker Agent
 
 This agent showcases an ai market maker agent on Raydium, Orca, Meteora, OpeenBook, Drift, Manifest. The agent guides the user to setup basic two-sided quotes on markets.
 
